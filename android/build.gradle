@@ -59,4 +59,5 @@ dependencies {
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
     implementation 'com.github.umbertoghio:HBRecorder:3.0.1'
+    
 }
